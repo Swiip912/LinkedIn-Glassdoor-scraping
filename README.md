@@ -2,10 +2,10 @@
 
 This is some scripts which purpose is to :
 
-1 - Extract current Data engineer job offer in France from LinkedIn
-2 - Extract a big sample of IT companies that offer Data engineer AND the average salaries from Glassdoor
-3 - Match the data together so you can get the best offers of the week
-4 - Buikd a data pipeline to run every week or so.
+1 - Extract current Data engineer job offer in France from LinkedIn  
+2 - Extract a big sample of IT companies that offer Data engineer AND the average salaries from Glassdoor  
+3 - Match the data together so you can get the best offers of the week  
+4 - Build a data pipeline to run every week or so.
 
 This is for me to educate myself about some concepts :
 
