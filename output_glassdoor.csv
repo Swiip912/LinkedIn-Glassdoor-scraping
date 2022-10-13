@@ -1,0 +1,1001 @@
+Company Name,Job Title,Salary,Min salary,Max salary,Fourchette
+Capgemini,Data Engineer,40416,32k,50k,31838 - 49831 Fourchette
+Société Générale,Data Engineer,46500,43k,55k,42971 - 55000 Fourchette
+Contentsquare,Data Engineer,65104,45k,78k,45000 - 77505 Fourchette
+JEMS Group,Data Engineer,46537,35k,62k,35152 - 61801 Fourchette
+Sfeir,Data Engineer,52317,36k,82k,36240 - 82000 Fourchette
+Devoteam,Data Engineer,43603,35k,54k,35152 - 54000 Fourchette
+Sopra Steria,Data Engineer,37364,31k,59k,31002 - 58505 Fourchette
+Atos,Data Engineer,37565,35k,43k,35000 - 42972 Fourchette
+CGI,Data Engineer,42628,31k,52k,31175 - 52056 Fourchette
+Orange,Data Engineer,46503,38k,52k,38366 - 51670 Fourchette
+Artefact,Data Engineer,53311,46k,60k,46000 - 60000 Fourchette
+Umanis,Data Engineer,52928,38k,67k,38280 - 66795 Fourchette
+Aubay,Data Engineer,47957,40k,52k,40000 - 51920 Fourchette
+Keyrus,Data Engineer,47184,36k,70k,35681 - 70408 Fourchette
+Deezer,Data Engineer,48000,43k,64k,42567 - 63572 Fourchette
+OCTO Technology,Data Engineer,44543,42k,50k,41559 - 50435 Fourchette
+Thales,Data Engineer,41336,35k,44k,35000 - 44019 Fourchette
+Ippon,Data Engineer,36686,36k,52k,36000 - 51603 Fourchette
+BNP Paribas,Data Engineer,55503,44k,63k,43607 - 63000 Fourchette
+Dailymotion,Data Engineer,61278,52k,74k,52453 - 74217 Fourchette
+ENGIE,Data Engineer,43164,15k,82k,15396 - 81527 Fourchette
+ALTEN,Data Engineer,41563,33k,53k,32738 - 53280 Fourchette
+IVIDATA Group,Data Engineer,60000,48k,66k,47861 - 65942 Fourchette
+StarClay,Data Engineer,46761,40k,54k,40000 - 54222 Fourchette
+La Redoute,Data Engineer,42878,35k,48k,35305 - 47500 Fourchette
+beNext,Data Engineer,46258,41k,52k,41000 - 52173 Fourchette
+Numberly (1000mercis group),Data Engineer,41544,38k,50k,38331 - 50026 Fourchette
+Avanade,Data Engineer,45636,41k,55k,40971 - 55417 Fourchette
+Octopeek,Data Engineer,47536,29k,58k,29377 - 58497 Fourchette
+Orange,Data Engineer - Stagiaire mensuel,1442,1k,2k,1100 - 1507 Fourchette
+Inetum,Data Engineer,41357,38k,55k,37853 - 55479 Fourchette
+MFG Labs,Data Engineer,44760,40k,59k,40416 - 58817 Fourchette
+Accenture,Data Engineer,43607,40k,58k,40000 - 57513 Fourchette
+onepoint,Data Engineer,45392,38k,52k,37853 - 51771 Fourchette
+Informatique CDC,Data Engineer,49427,39k,60k,39269 - 60261 Fourchette
+BlaBlaCar,Data Engineer,60522,50k,67k,50492 - 66795 Fourchette
+Micropole,Data Engineer,47861,40k,53k,40000 - 53179 Fourchette
+Business Decision,Data Engineer,48000,41k,51k,41349 - 50588 Fourchette
+Davidson Consulting,Data Engineer,51651,40k,60k,39500 - 59794 Fourchette
+Capital Fund Management,Data Engineer,66816,47k,74k,47163 - 74217 Fourchette
+Margo,Data Engineer,41944,39k,53k,39000 - 52703 Fourchette
+Atos,Data Engineer - Stagiaire mensuel,1380,1k,2k,1243 - 1739 Fourchette
+MY TRAFFIC,Data Engineer,50061,45k,56k,44790 - 55858 Fourchette
+IBM,Data Engineer,47649,45k,49k,45015 - 49397 Fourchette
+FABERNOVEL,Data Engineer,46403,43k,63k,43294 - 63000 Fourchette
+Renault Group,Data Engineer - Mensuel,1191,1k,2k,1043 - 2327 Fourchette
+NODYA Group,Data Engineer,43201,39k,48k,39340 - 48211 Fourchette
+Criteo,Data Engineer,80503,48k,87k,47861 - 87173 Fourchette
+Groupe SII,Data Engineer,40734,38k,45k,38000 - 45002 Fourchette
+Safran,Data Engineer,47270,13k,48k,13200 - 48378 Fourchette
+CANAL+ Group,Data Engineer,45371,44k,56k,43694 - 55731 Fourchette
+FINAXYS,Data Engineer,50621,46k,55k,45558 - 54804 Fourchette
+Crédit Agricole,Data Engineer,48862,40k,55k,40348 - 55000 Fourchette
+Société Générale,Data Engineer - Stagiaire mensuel,1274,650,1k,650 - 1386 Fourchette
+Synthesio,Data Engineer,60587,56k,66k,55517 - 66074 Fourchette
+Business & Decision Group,Data Engineer,33928,34k,48k,33761 - 47888 Fourchette
+Soat,Data Engineer,46745,46k,72k,46434 - 72157 Fourchette
+Kayrros,Data Engineer,44000,40k,48k,40000 - 48241 Fourchette
+Sicara,Data Engineer,52115,44k,53k,44383 - 53286 Fourchette
+Ubisoft,Data Engineer,50820,49k,65k,48698 - 64904 Fourchette
+Axionable,Data Engineer,60868,40k,76k,40348 - 76000 Fourchette
+Lectra,Data Engineer,42447,42k,49k,41923 - 48500 Fourchette
+TotalEnergies,Data Engineer,47861,39k,57k,39000 - 56948 Fourchette
+Devoteam G Cloud,Data Engineer,42000,42k,46k,42000 - 46401 Fourchette
+Qwant,Data Engineer,41923,37k,42k,37389 - 42157 Fourchette
+Equancy,Data Engineer,44670,44k,47k,43825 - 46602 Fourchette
+Cognizant Technology Solutions,Data Engineer,47861,40k,51k,39899 - 51130 Fourchette
+IDEMIA,Data Engineer,45734,38k,55k,37709 - 54877 Fourchette
+Sigfox,Data Engineer,42543,40k,44k,40429 - 44210 Fourchette
+Zenika,Data Engineer,46956,43k,48k,43127 - 48211 Fourchette
+Datatorii,Data Engineer,55132,53k,56k,52696 - 55517 Fourchette
+INVIVOO,Data Engineer,52000,48k,60k,47711 - 60092 Fourchette
+Extia,Data Engineer,45912,45k,51k,45060 - 51130 Fourchette
+Expleo Group,Data Engineer,37625,37k,40k,37410 - 40000 Fourchette
+Alchimie,Data Engineer,58614,47k,59k,46503 - 58614 Fourchette
+Astek,Data Engineer,43294,34k,47k,34412 - 46956 Fourchette
+CS Group,Data Engineer,37161,37k,53k,37000 - 53012 Fourchette
+Openvalue,Data Engineer,50435,38k,58k,38380 - 58458 Fourchette
+WeWyse,Data Engineer,54770,54k,62k,54138 - 61849 Fourchette
+Believe,Data Engineer,57155,52k,63k,51959 - 62967 Fourchette
+Meritis,Data Engineer,60000,56k,65k,56193 - 64691 Fourchette
+Adikteev,Data Engineer,63000,51k,65k,51331 - 64674 Fourchette
+Société Générale,Data Engineer - Mensuel,1528,2k,3k,1506 - 3494 Fourchette
+Devoteam G Cloud,Data Engineer - Stagiaire mensuel,1035,1k,2k,1035 - 1553 Fourchette
+Meilleurs Agents,Data Engineer,46650,46k,47k,46038 - 47440 Fourchette
+Leboncoin,Data Engineer,55000,50k,70k,50435 - 69976 Fourchette
+Padoa,Data Engineer - Stagiaire mensuel,1240,1k,1k,1172 - 1467 Fourchette
+Cegedim,Data Engineer,47861,48k,51k,47711 - 50520 Fourchette
+Continental,Data Engineer,36658,33k,42k,33448 - 41563 Fourchette
+RelevanC,Data Engineer,48771,43k,50k,42543 - 49881 Fourchette
+Sogeti,Data Engineer,37731,36k,38k,36341 - 38000 Fourchette
+Quantmetry,Data Engineer,52000,45k,53k,44790 - 52753 Fourchette
+SAP,Data Engineer,48471,43k,57k,43127 - 57155 Fourchette
+Alteca,Data Engineer,40875,30k,47k,29757 - 46763 Fourchette
+Converteo,Data Engineer,50959,45k,52k,45392 - 52226 Fourchette
+Groupama,Data Engineer,50675,51k,51k,50621 - 51356 Fourchette
+Ysance,Data Engineer,40980,40k,47k,40000 - 47163 Fourchette
+nam.R,Data Engineer,46316,45k,51k,44794 - 51081 Fourchette
+Sancare,Data Engineer,44k -49k,44k,49k,44122 - 48528 Fourchette
+Add Intelligence to data,Data Engineer,38k -42k,38k,42k,37779 - 41643 Fourchette
+Avanade,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1217 - 1434 Fourchette
+DataFab,Data Engineer,57k -64k,57k,64k,56867 - 64077 Fourchette
+Canon,Data Engineer - Mensuel,3k -3k,3k,3k,2796 - 3496 Fourchette
+Kiss The Bride,Data Engineer,31k -44k,31k,44k,30818 - 44030 Fourchette
+Air Liquide,Data Engineer,43k -54k,43k,54k,42812 - 54311 Fourchette
+Openfield Live,Data Engineer,48k -53k,48k,53k,47734 - 52582 Fourchette
+Capgemini Engineering,Data Engineer,39k -42k,39k,42k,38870 - 42498 Fourchette
+AUDENSIEL,Data Engineer,44k -57k,44k,57k,43988 - 57010 Fourchette
+Saint-Gobain,Data Engineer,43k -67k,43k,67k,42711 - 67318 Fourchette
+Freelance,Data Engineer,46k -56k,46k,56k,45799 - 55557 Fourchette
+Renault Group,Data Engineer,43k -65k,43k,65k,43245 - 65194 Fourchette
+Kapten,Data Engineer,42k -48k,42k,48k,42304 - 48457 Fourchette
+Google,Data Engineer,46k -52k,46k,52k,45709 - 52195 Fourchette
+Decathlon,Data Engineer,39k -47k,39k,47k,39494 - 46716 Fourchette
+Cleyrop,Data Engineer,38k -57k,38k,57k,38216 - 57430 Fourchette
+Inato,Data Engineer,67k -75k,67k,75k,67034 - 74585 Fourchette
+Positive Thinking Company,Data Engineer,42k -62k,42k,62k,41658 - 62243 Fourchette
+Mangopay,Data Engineer,59k -68k,59k,68k,58516 - 67596 Fourchette
+TRAXENS,Data Engineer,36k -48k,36k,48k,36129 - 48246 Fourchette
+Nexway,Data Engineer,34k -39k,34k,39k,34240 - 38796 Fourchette
+Heetch,Data Engineer,51k -83k,51k,83k,50792 - 82606 Fourchette
+Allianz,Data Engineer,61k -179k,61k,179k,61276 - 179423 Fourchette
+Sibylone,Data Engineer,39k -46k,39k,46k,38814 - 46253 Fourchette
+Nyctale,Data Engineer,46k -50k,46k,50k,46045 - 50049 Fourchette
+Datavalue Consulting,Data Engineer,44k -52k,44k,52k,43594 - 51723 Fourchette
+OMNILOG,Data Engineer - Mensuel,4k -4k,4k,4k,3576 - 4077 Fourchette
+DTA Ingénierie,Data Engineer,26k -31k,26k,31k,26069 - 31213 Fourchette
+Lixo,Data Engineer,46k -54k,46k,54k,45542 - 53744 Fourchette
+Alterway,Data Engineer,66k -72k,66k,72k,66378 - 71736 Fourchette
+SFR,Data Engineer - Stagiaire mensuel,1k -2k,1k,2k,1388 - 1746 Fourchette
+Umbrella Corporation,Data Engineer,46k -55k,46k,55k,46138 - 55073 Fourchette
+OP-Rate,Data Engineer,38k -42k,38k,42k,38202 - 41872 Fourchette
+ALPHA10X,Data Engineer - Stagiaire mensuel,997 -1k,997,1k,997 - 1094 Fourchette
+Ausy,Data Engineer,35k -39k,35k,39k,35085 - 38818 Fourchette
+Groupe Intm,Data Engineer,37k -39k,37k,39k,36837 - 39353 Fourchette
+test,Data Engineer,42k -50k,42k,50k,42064 - 49565 Fourchette
+Novagen,Data Engineer,41k -49k,41k,49k,41082 - 49150 Fourchette
+Softeam,Data Engineer,56k -62k,56k,62k,56246 - 62242 Fourchette
+dcube,Data Engineer,40k -47k,40k,47k,39772 - 47003 Fourchette
+Manomano,Data Engineer,46k -52k,46k,52k,45515 - 51776 Fourchette
+Claranet,Data Engineer,37k -43k,37k,43k,37332 - 43308 Fourchette
+Amazon,Data Engineer - Mensuel,2k -5k,2k,5k,2477 - 4802 Fourchette
+Talan,Data Engineer,44k -48k,44k,48k,43585 - 48176 Fourchette
+Generali,Data Engineer,46k -52k,46k,52k,46204 - 51741 Fourchette
+AXA Investment Managers,Data Engineer,57k -77k,57k,77k,56874 - 77339 Fourchette
+Orange Business Services,Data Engineer,37k -40k,37k,40k,36567 - 40365 Fourchette
+Weborama,Data Engineer,63k -69k,63k,69k,62735 - 68952 Fourchette
+VISEO,Data Engineer,36k -47k,36k,47k,36045 - 46755 Fourchette
+Ekimetrics,Data Engineer,40k -47k,40k,47k,39837 - 46879 Fourchette
+Valeuriad,Data Engineer,37k -41k,37k,41k,37288 - 41390 Fourchette
+Matera,Data Engineer,47k -57k,47k,57k,46870 - 56945 Fourchette
+Padoa,Data Engineer,44k -53k,44k,53k,43631 - 52657 Fourchette
+Hawk,Data Engineer,47k -51k,47k,51k,47087 - 51023 Fourchette
+Rakuten France,Data Engineer,62k -68k,62k,68k,62156 - 67542 Fourchette
+Safran,Data Engineer - Mensuel,1k -1k,1k,1k,1188 - 1336 Fourchette
+Expertime,Data Engineer,40k -43k,40k,43k,39995 - 43447 Fourchette
+Bluescale,Data Engineer,39k -43k,39k,43k,39112 - 43306 Fourchette
+La Poste,Data Engineer,35k -56k,35k,56k,35123 - 56010 Fourchette
+PriceHubble,Data Engineer,51k -61k,51k,61k,51288 - 60531 Fourchette
+Toucan Toco,Data Engineer,38k -55k,38k,55k,38210 - 55254 Fourchette
+Amadeus,Data Engineer,42k -52k,42k,52k,42477 - 52190 Fourchette
+Doctolib,Data Engineer,39k -50k,39k,50k,38668 - 49837 Fourchette
+Novelis (France),Data Engineer,37k -42k,37k,42k,36909 - 42468 Fourchette
+Air France,Data Engineer,41k -47k,41k,47k,40963 - 47324 Fourchette
+Armis,Data Engineer,48k -56k,48k,56k,48187 - 55702 Fourchette
+Confidential,Data Engineer,40k -62k,40k,62k,40496 - 62188 Fourchette
+AKKA Technologies,Data Engineer,33k -43k,33k,43k,33386 - 43227 Fourchette
+SFR,Data Engineer - Mensuel,2k -2k,2k,2k,1648 - 1779 Fourchette
+Altran Corporation,Data Engineer,30k -33k,30k,33k,30328 - 32916 Fourchette
+Cleverside,Data Engineer,71k -77k,71k,77k,70977 - 77008 Fourchette
+Bomzai,Data Engineer,18k -20k,18k,20k,17944 - 19526 Fourchette
+Medici TV,Data Engineer,51k -54k,51k,54k,50710 - 54110 Fourchette
+Groupement Les Mousquetaires,Data Engineer,41k -45k,41k,45k,41498 - 45228 Fourchette
+InsideBoard,Data Engineer,51k -54k,51k,54k,50855 - 54172 Fourchette
+SOPHiA GENETICS,Data Engineer,36k -39k,36k,39k,35839 - 38816 Fourchette
+iBanFirst,Data Engineer,34k -36k,34k,36k,33789 - 36254 Fourchette
+OneWeb Satellites,Data Engineer - Stagiaire mensuel,751 -809,751,809,751 - 809 Fourchette
+Mangrove,Data Engineer,39k -43k,39k,43k,38764 - 42573 Fourchette
+Software Factory,Data Engineer,45k -49k,45k,49k,45169 - 49045 Fourchette
+Amazon,Data Engineer - Contrat temporaire,54k -59k,54k,59k,54276 - 58841 Fourchette
+Datapy,Data Engineer,53k -57k,53k,57k,53120 - 56769 Fourchette
+The Boston Consulting Group,Data Engineer,51k -56k,51k,56k,51083 - 55639 Fourchette
+BiGapps Interactive,Data Engineer,40k -43k,40k,43k,39991 - 43039 Fourchette
+Sully Group,Data Engineer,43k -47k,43k,47k,42770 - 46636 Fourchette
+Prisma Media,Data Engineer,51k -55k,51k,55k,51222 - 55125 Fourchette
+Néo-Soft Groupe,Data Engineer,37k -40k,37k,40k,37444 - 40089 Fourchette
+Groupe SeLoger,Data Engineer - Stagiaire mensuel,1k -2k,1k,2k,1426 - 1548 Fourchette
+Air Liquide,Data Engineer - Contrat temporaire,72k$US -77k$US,72k$US,77k$US,71584$US - 77489$US Fourchette
+Youth Brain,Data Engineer,40k -44k,40k,44k,40360 - 43509 Fourchette
+SQLI,Data Engineer - Mensuel,1k -1k,1k,1k,1056 - 1146 Fourchette
+Evoteo,Data Engineer,32k -34k,32k,34k,31806 - 34250 Fourchette
+KMTX,Data Engineer,46k -50k,46k,50k,46498 - 50487 Fourchette
+Keolis,Data Engineer,61k -66k,61k,66k,61359 - 65931 Fourchette
+Ciblo,Data Engineer,46k -50k,46k,50k,45645 - 50226 Fourchette
+Amiltone,Data Engineer,31k -34k,31k,34k,31348 - 33879 Fourchette
+Delair,Data Engineer,43k -46k,43k,46k,42728 - 46041 Fourchette
+Schneider Electric,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1247 - 1363 Fourchette
+Actimage,Data Engineer,44k -47k,44k,47k,43714 - 47152 Fourchette
+The Independent Calculation Agent,Data Engineer,40k -44k,40k,44k,40412 - 43646 Fourchette
+Easyence,Data Engineer,52k -56k,52k,56k,52320 - 55933 Fourchette
+Voodoo,Data Engineer,62k -67k,62k,67k,61592 - 66665 Fourchette
+Murex,Data Engineer - Stagiaire mensuel,2k -2k,2k,2k,2030 - 2187 Fourchette
+Zenly,Data Engineer,77k -83k,77k,83k,77094 - 83038 Fourchette
+BBDO,Data Engineer - Horaire,26$US -28$US,26$US,28$US,26$US - 28$US Fourchette
+Adevinta,Data Engineer,47k -51k,47k,51k,46686 - 50621 Fourchette
+Orange,Data Engineer - Mensuel,2k -2k,2k,2k,1634 - 1758 Fourchette
+Apgar Consulting,Data Engineer,40k -43k,40k,43k,39726 - 42810 Fourchette
+FairMoney,Data Engineer,67k -73k,67k,73k,66870 - 73151 Fourchette
+MP DATA,Data Engineer,47k -51k,47k,51k,46524 - 51051 Fourchette
+TeamWork Corporate,Data Engineer,45k -49k,45k,49k,44959 - 49056 Fourchette
+Bouygues Telecom,Data Engineer,35k -38k,35k,38k,35224 - 37990 Fourchette
+Ad Scientiam,Data Engineer,42k -45k,42k,45k,41543 - 45033 Fourchette
+Sanofi,Data Engineer,40k -43k,40k,43k,39798 - 43259 Fourchette
+Hardis Group,Data Engineer,38k -41k,38k,41k,38388 - 41222 Fourchette
+Belo,Data Engineer,39k -42k,39k,42k,38752 - 42199 Fourchette
+Sodexo,Data Engineer,43k -46k,43k,46k,42633 - 45587 Fourchette
+AXA / France,Data Engineer,57k -62k,57k,62k,57098 - 61867 Fourchette
+Ministère de la Défense,Data Engineer - Contrat temporaire,42k -46k,42k,46k,42402 - 46326 Fourchette
+BNP Paribas,Data Engineer - Mensuel,2k -3k,2k,3k,2306 - 2512 Fourchette
+5 Degrés,Data Engineer,41k -44k,41k,44k,40807 - 44034 Fourchette
+Infor,Data Engineer,54k$US -58k$US,54k$US,58k$US,53729$US - 58081$US Fourchette
+Advitam,Data Engineer,41k -44k,41k,44k,40703 - 44252 Fourchette
+Innovafeed,Data Engineer,45k -49k,45k,49k,44872 - 49127 Fourchette
+Smile Group,Data Engineer,40k -43k,40k,43k,39669 - 42936 Fourchette
+ekino,Data Engineer,41k -45k,41k,45k,41143 - 44555 Fourchette
+Groupe Fortil,Data Engineer,33k -36k,33k,36k,33395 - 35911 Fourchette
+Brand & Consumer Technologies,Data Engineer,51k -55k,51k,55k,50840 - 54810 Fourchette
+Bpifrance,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1205 - 1319 Fourchette
+Groupe Bouygues,Data Engineer,53k$US -57k$US,53k$US,57k$US,52692$US - 57097$US Fourchette
+Business Immo,Data Engineer - Mensuel,3k -4k,3k,4k,3491 - 3776 Fourchette
+onepoint,Data Engineer - Stagiaire mensuel,2k -2k,2k,2k,1538 - 1662 Fourchette
+Infopro Digital,Data Engineer,57k -62k,57k,62k,57470 - 61886 Fourchette
+Accenture,Data Engineer - Stagiaire mensuel,1k -2k,1k,2k,1492 - 1630 Fourchette
+MLMConseil,Data Engineer,39k -42k,39k,42k,39054 - 41860 Fourchette
+Safra National Bank of New York,Data Engineer,41k -43k,41k,43k,40664 - 43491 Fourchette
+WeMaintain,Data Engineer,46k -50k,46k,50k,45850 - 50321 Fourchette
+Startup,Data Engineer,56k -61k,56k,61k,55620 - 60749 Fourchette
+Decathlon,Data Engineer - Stagiaire mensuel,926 -995,926,995,926 - 995 Fourchette
+Generali,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1063 - 1155 Fourchette
+Algolia,Data Engineer,65k -71k,65k,71k,64616 - 71041 Fourchette
+Proxiad,Data Engineer,43k -47k,43k,47k,43459 - 47050 Fourchette
+Baobab,Data Engineer,48k -51k,48k,51k,47775 - 51439 Fourchette
+Organisation for Economic Co-operation and Development,Data Engineer - Stagiaire mensuel,715 -776,715,776,715 - 776 Fourchette
+TotalEnergies,Data Engineer - Contrat temporaire mensuel,3k -3k,3k,3k,2604 - 2810 Fourchette
+Linkt,Data Engineer,44k -48k,44k,48k,44409 - 48112 Fourchette
+DataDome,Data Engineer,41k -45k,41k,45k,41049 - 44612 Fourchette
+Schlumberger,Data Engineer,10k -11k,10k,11k,10301 - 11144 Fourchette
+Crédit Mutuel Arkea,Data Engineer,43k -46k,43k,46k,43230 - 46271 Fourchette
+360° Fahrenheit,Data Engineer,28k -30k,28k,30k,27887 - 30349 Fourchette
+TravelCar (France),Data Engineer,46k -50k,46k,50k,46119 - 49733 Fourchette
+Adthink,Data Engineer,32k -35k,32k,35k,32033 - 34629 Fourchette
+Dashlane,Data Engineer,49k -54k,49k,54k,49498 - 53575 Fourchette
+ONE2TEAM,Data Engineer,43k -47k,43k,47k,43349 - 46957 Fourchette
+Meetic,Data Engineer,52k$US -57k$US,52k$US,57k$US,51826$US - 56530$US Fourchette
+SoftBank Robotics,Data Engineer,45k -49k,45k,49k,45001 - 48651 Fourchette
+Featway,Data Engineer - Stagiaire mensuel,2k -3k,2k,3k,2487 - 2718 Fourchette
+Ministère de l'Éducation nationale,Data Engineer,46k -49k,46k,49k,45611 - 49035 Fourchette
+Lincoln,Data Engineer,39k -43k,39k,43k,38877 - 42683 Fourchette
+QuantCube Technology,Data Engineer,55k -60k,55k,60k,54978 - 59882 Fourchette
+Boursorama,Data Engineer - Stagiaire mensuel,2k -2k,2k,2k,1622 - 1735 Fourchette
+Shine,Data Engineer,69k -76k,69k,76k,68937 - 75741 Fourchette
+Galeries Lafayette,Data Engineer,46k -50k,46k,50k,45915 - 49954 Fourchette
+CPAM,Data Engineer - Mensuel,2k -3k,2k,3k,2371 - 2567 Fourchette
+Volvo Group,Data Engineer,37k -40k,37k,40k,36607 - 40189 Fourchette
+LCL,Data Engineer,48k -53k,48k,53k,48211 - 52921 Fourchette
+Synapse Medicine,Data Engineer,44k -48k,44k,48k,44030 - 48495 Fourchette
+Orness,Data Engineer,45k -49k,45k,49k,44544 - 48996 Fourchette
+Octo Consulting Group,Data Engineer,54k -58k,54k,58k,53725 - 58124 Fourchette
+Skeepers,Data Engineer,43k -47k,43k,47k,43158 - 47097 Fourchette
+IBM,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1374 - 1490 Fourchette
+Crédit Agricole,Data Engineer - Contrat temporaire,43k -46k,43k,46k,43118 - 46328 Fourchette
+TheFork,Data Engineer,43k -46k,43k,46k,43033 - 46170 Fourchette
+Adot,Data Engineer,52k -57k,52k,57k,52351 - 56942 Fourchette
+Factonics,Data Engineer,42k -46k,42k,46k,41978 - 45713 Fourchette
+Clemessy,Data Engineer - Stagiaire horaire,4 -4,4,4,4 - 4 Fourchette
+Wabtec,Data Engineer,65k -71k,65k,71k,65470 - 70756 Fourchette
+Luxurynsight,Data Engineer,40k -43k,40k,43k,40177 - 43180 Fourchette
+Groupe Asten,Data Engineer,31k -33k,31k,33k,30989 - 33114 Fourchette
+abcsalles.com,Data Engineer - Stagiaire mensuel,2k -2k,2k,2k,1508 - 1642 Fourchette
+Otoqi,Data Engineer,38k -42k,38k,42k,38297 - 41984 Fourchette
+Palantir Technologies,Data Engineer,52k -56k,52k,56k,51539 - 56490 Fourchette
+Schneider Electric,Data Engineer - Mensuel,2k -3k,2k,3k,2295 - 2524 Fourchette
+Adéquation Entreprises,Data Engineer,42k -45k,42k,45k,41852 - 44923 Fourchette
+Black Tiger,Data Engineer,41k -44k,41k,44k,41130 - 44265 Fourchette
+Hivency,Data Engineer,51k -55k,51k,55k,51124 - 55084 Fourchette
+Elbussinnes,Data Engineer,38k -42k,38k,42k,38376 - 41751 Fourchette
+GHF Capital,Data Engineer,41k -45k,41k,45k,41244 - 45229 Fourchette
+Zenika,Data Engineer,41k -44k,41k,44k,41073 - 44490 Fourchette
+Libeo (France),Data Engineer,60k -65k,60k,65k,59820 - 64654 Fourchette
+Inria,Data Engineer,41k -45k,41k,45k,41252 - 45268 Fourchette
+Qatar Petroleum,Data Engineer,39k -41k,39k,41k,38651 - 41494 Fourchette
+ADEO,Data Engineer,46k -49k,46k,49k,45701 - 49427 Fourchette
+Lansrod,Data Engineer,44k -47k,44k,47k,44138 - 47376 Fourchette
+Ministère de la Défense,Data Engineer,40k -43k,40k,43k,40176 - 42940 Fourchette
+Excelerate Systems,Data Engineer,36k -40k,36k,40k,36491 - 40091 Fourchette
+marionnaud,Data Engineer - Stagiaire,19k -20k,19k,20k,18509 - 19903 Fourchette
+DataRisk,Data Engineer,54k -59k,54k,59k,54375 - 58702 Fourchette
+Data4Risk,Data Engineer,55k -59k,55k,59k,54908 - 59435 Fourchette
+Mirakl,Data Engineer,59k -64k,59k,64k,59051 - 63844 Fourchette
+Bureau Veritas,Data Engineer - Stagiaire mensuel,2k -2k,2k,2k,1538 - 1677 Fourchette
+Hays,Data Engineer,56k -62k,56k,62k,56455 - 61701 Fourchette
+Schneider Electric,Data Engineer - Mensuel,1k -2k,1k,2k,1486 - 1627 Fourchette
+DSI Group,Data Engineer,38k -41k,38k,41k,37632 - 41083 Fourchette
+bial-r,Data Engineer,42k -45k,42k,45k,42088 - 45397 Fourchette
+Wedoogift,Data Engineer,42k -46k,42k,46k,42156 - 45590 Fourchette
+Pharnext,Data Engineer,56k -60k,56k,60k,56191 - 59949 Fourchette
+Datasoft Systems,Data Engineer,50k -54k,50k,54k,49612 - 53873 Fourchette
+Chethan's Charters- GD FEA Employer,Data Engineer,55k -59k,55k,59k,54679 - 58788 Fourchette
+Zango,Data Engineer,45k -49k,45k,49k,44942 - 48949 Fourchette
+Nones,Data Engineer,42k -45k,42k,45k,41808 - 45219 Fourchette
+BFM Group,Data Engineer,50k -55k,50k,55k,50357 - 54849 Fourchette
+Assurly,Data Engineer - Stagiaire horaire,4 -4,4,4,4 - 4 Fourchette
+Outscale,Data Engineer,46k -50k,46k,50k,46009 - 50391 Fourchette
+Air France,Data Engineer,21k -23k,21k,23k,21259 - 23270 Fourchette
+Brico Privé,Data Engineer,37k -40k,37k,40k,36767 - 39717 Fourchette
+ITNOVEM.,Data Engineer,62k -67k,62k,67k,61535 - 66531 Fourchette
+Vectaury,Data Engineer,46k -50k,46k,50k,45950 - 49691 Fourchette
+Pretty Simple,Data Engineer,51k -55k,51k,55k,50692 - 55081 Fourchette
+EDF,Data Engineer - Mensuel,964 -1k,964,1k,964 - 1047 Fourchette
+Liebherr Group,Data Engineer,45k -49k,45k,49k,44746 - 48540 Fourchette
+Keyrus,Data Engineer,43k -46k,43k,46k,42819 - 46040 Fourchette
+Ebiznext,Data Engineer,68k -74k,68k,74k,67586 - 73836 Fourchette
+Amayas Consulting,Data Engineer,49k$US -53k$US,49k$US,53k$US,48962$US - 52815$US Fourchette
+DXC Technology,Data Engineer,48k -52k,48k,52k,48279 - 51952 Fourchette
+Numberly (1000mercis group),Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1059 - 1160 Fourchette
+42c,Data Engineer,45k -48k,45k,48k,44517 - 47592 Fourchette
+ASI,Data Engineer,33k -35k,33k,35k,32600 - 35243 Fourchette
+Airbus,Data Engineer,97k -105k,97k,105k,97300 - 105195 Fourchette
+Jeppiaar,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1196 - 1304 Fourchette
+NetDevices,Data Engineer,45k -49k,45k,49k,44738 - 48795 Fourchette
+Health Data Hub,Data Engineer,40k -43k,40k,43k,39902 - 43095 Fourchette
+RTE - Le Réseau de Transport d'Electricité,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1197 - 1280 Fourchette
+Plastic Omnium,Data Engineer - Mensuel,1k -1k,1k,1k,1342 - 1425 Fourchette
+LISEA,Data Engineer,46k -50k,46k,50k,46199 - 49782 Fourchette
+Inbox Business Technologies,Data Engineer,40k -42k,40k,42k,39556 - 42189 Fourchette
+Disneyland Paris,Data Engineer,16k -18k,16k,18k,15973 - 17538 Fourchette
+UPMC,Data Engineer,40k -44k,40k,44k,40198 - 43686 Fourchette
+Hurence,Data Engineer,47k -51k,47k,51k,46835 - 51299 Fourchette
+Essilor,Data Engineer,46k -49k,46k,49k,45742 - 49351 Fourchette
+Infotel,Data Engineer,29k -31k,29k,31k,28944 - 31421 Fourchette
+Digital Dimension (France),Data Engineer,59k -64k,59k,64k,58861 - 63754 Fourchette
+Energisme,Data Engineer,40k -44k,40k,44k,40125 - 43684 Fourchette
+Mixdata,Data Engineer,49k -53k,49k,53k,49142 - 53136 Fourchette
+Lyreco,Data Engineer,17k -18k,17k,18k,16820 - 18426 Fourchette
+Brigad,Data Engineer,58k -63k,58k,63k,58223 - 62645 Fourchette
+JCDecaux,Data Engineer,55k -59k,55k,59k,54620 - 59178 Fourchette
+24 Sèvres,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1091 - 1174 Fourchette
+Neoxia,Data Engineer,49k -53k,49k,53k,48930 - 52630 Fourchette
+Berexia,Data Engineer,56k -61k,56k,61k,56082 - 61197 Fourchette
+Airbus,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1056 - 1144 Fourchette
+Xebia,Data Engineer,49k -54k,49k,54k,49316 - 53620 Fourchette
+OpenValue,Data Engineer,56k -61k,56k,61k,56229 - 61348 Fourchette
+Talys Consulting,Data Engineer,53k -57k,53k,57k,52731 - 56918 Fourchette
+Be Sports,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1123 - 1230 Fourchette
+SFR,Data Engineer,44k -48k,44k,48k,43756 - 47981 Fourchette
+Cognira,Data Engineer - Mensuel,2kTND -2kTND,2kTND,2kTND,2326TND - 2475TND Fourchette
+Leansys Conseil Et Expertise,Data Engineer,32k -35k,32k,35k,32252 - 34950 Fourchette
+KLANIK Consulting,Data Engineer - Mensuel,3k -3k,3k,3k,2527 - 2743 Fourchette
+Starlims,Data Engineer,37k -40k,37k,40k,37023 - 40446 Fourchette
+Company Name,Job Title,Salary,Min salary,Max salary,Fourchette
+EXFO,Data Engineer,39k -43k,39k,43k,39310 - 42769 Fourchette
+Groupe Rocher,Data Engineer - Mensuel,969 -1k,969,1k,969 - 1054 Fourchette
+Redslim,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1025 - 1103 Fourchette
+Cyllene,Data Engineer,45k -49k,45k,49k,44960 - 49019 Fourchette
+Sogecap,Data Engineer - Mensuel,1k -1k,1k,1k,1162 - 1255 Fourchette
+SNCF Connect & Tech,Data Engineer,47k -51k,47k,51k,46727 - 50592 Fourchette
+PrestaShop,Data Engineer,46k -50k,46k,50k,45598 - 49848 Fourchette
+ADEO,Data Engineer - Mensuel,2k -2k,2k,2k,1958 - 2103 Fourchette
+Dalet,Data Engineer - Stagiaire mensuel,3k -3k,3k,3k,2575 - 2774 Fourchette
+Reussir,Data Engineer - Stagiaire mensuel,960 -1k,960,1k,960 - 1036 Fourchette
+Green Panda Games,Data Engineer,49k -52k,49k,52k,48678 - 52305 Fourchette
+Bial-X.,Data Engineer - Mensuel,3k -3k,3k,3k,2921 - 3140 Fourchette
+Quantmetry,Data Engineer - Mensuel,1k -1k,1k,1k,1316 - 1445 Fourchette
+Wakam,Data Engineer,42k -44k,42k,44k,41664 - 44312 Fourchette
+Oney,Data Engineer,45k -49k,45k,49k,44930 - 49487 Fourchette
+Redslim,Data Engineer,57k -61k,57k,61k,56641 - 61405 Fourchette
+CGI,Data Engineer,33k -36k,33k,36k,33419 - 36376 Fourchette
+Predictice,Data Engineer,47k -52k,47k,52k,46846 - 51717 Fourchette
+Realytics,Data Engineer,36k -39k,36k,39k,35989 - 39177 Fourchette
+Assistance Publique Hôpitaux de Paris,Data Engineer,43k -47k,43k,47k,43425 - 47120 Fourchette
+Gouvernement Français,Data Engineer - Mensuel,3k -3k,3k,3k,2860 - 3116 Fourchette
+CACEIS,Data Engineer,47k -51k,47k,51k,47290 - 51189 Fourchette
+Meero,Data Engineer,44k -48k,44k,48k,44206 - 47793 Fourchette
+Sigma Informatique,Data Engineer - Mensuel,1k -1k,1k,1k,1341 - 1474 Fourchette
+Mind7 Consulting,Data Engineer,40k -44k,40k,44k,40259 - 43955 Fourchette
+Bouygues Telecom,Data Engineer - Stagiaire mensuel,2k -2k,2k,2k,1586 - 1727 Fourchette
+LittleBigCode,Data Engineer,56k -60k,56k,60k,56395 - 60264 Fourchette
+FREE NOW,Data Engineer,70k -76k,70k,76k,69822 - 76201 Fourchette
+CGI,Data Engineer,38k -41k,38k,41k,38180 - 40595 Fourchette
+D2SI,Data Engineer,40k -44k,40k,44k,40472 - 44161 Fourchette
+AXA,Data Engineer,57k -62k,57k,62k,57268 - 61511 Fourchette
+Sopra Banking Software,Data Engineer - Stagiaire mensuel,1k -2k,1k,2k,1423 - 1561 Fourchette
+Métropole de Lyon,Data Engineer - Stagiaire horaire,4 -4,4,4,4 - 4 Fourchette
+inconnu,Data Engineer,40k -43k,40k,43k,39596 - 43182 Fourchette
+ricardo.ch,Data Engineer,59k -64k,59k,64k,59039 - 64123 Fourchette
+Health Data Hub,Data Engineer - Stagiaire mensuel,805 -872,805,872,805 - 872 Fourchette
+Yale University,Data Engineer - Contrat temporaire,62k$US -67k$US,62k$US,67k$US,62026$US - 66810$US Fourchette
+Stellantis,Data Engineer - Stagiaire mensuel,908 -987,908,987,908 - 987 Fourchette
+Axionable,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1304 - 1404 Fourchette
+RTE - Le Réseau de Transport d'Electricité,Data Engineer,38k -41k,38k,41k,37954 - 41091 Fourchette
+Zillow,Data Engineer - Stagiaire mensuel,4k -4k,4k,4k,3957 - 4343 Fourchette
+Odigo,Data Engineer,53k -57k,53k,57k,52853 - 57472 Fourchette
+DATASOFT CONSULTANTS,Data Engineer,53k -58k,53k,58k,53405 - 58061 Fourchette
+Dékuple,Data Engineer,52k -57k,52k,57k,52469 - 56796 Fourchette
+Disneyland Paris,Data Engineer - Mensuel,3k -3k,3k,3k,3083 - 3307 Fourchette
+Aucun,Data Engineer - Stagiaire mensuel,813 -872,813,872,813 - 872 Fourchette
+AGORA (G.I.E des Mutualités Sociales Agricoles) Ã  Montauban,Data Engineer,35k -38k,35k,38k,35401 - 38100 Fourchette
+Crédit Agricole,Data Engineer - Stagiaire mensuel,1k -2k,1k,2k,1437 - 1563 Fourchette
+Cetim,Data Engineer,45k -49k,45k,49k,44619 - 48786 Fourchette
+La Bécanerie,Data Engineer,40k -43k,40k,43k,40328 - 43434 Fourchette
+Royal Canin,Data Engineer,36k -40k,36k,40k,36271 - 39712 Fourchette
+eXalt,Data Engineer,42k -46k,42k,46k,42212 - 45554 Fourchette
+NH TherAguix,Data Engineer,45k -49k,45k,49k,44879 - 49136 Fourchette
+Interactive College of Technology (ICT),Data Engineer - Stagiaire,10k -11k,10k,11k,10152 - 11079 Fourchette
+Teads,Data Engineer,59k -64k,59k,64k,58935 - 64162 Fourchette
+SWEN Capital Partners,Data Engineer - Mensuel,3k -3k,3k,3k,2534 - 2767 Fourchette
+ProbaYes,Data Engineer,47k -50k,47k,50k,46507 - 49601 Fourchette
+Loyalty Company,Data Engineer,35k -38k,35k,38k,35222 - 38360 Fourchette
+Lydia (France),Data Engineer,46k -49k,46k,49k,45533 - 49058 Fourchette
+Qonto,Data Engineer,56k -61k,56k,61k,55613 - 60696 Fourchette
+Danone,Data Engineer,55k -60k,55k,60k,55247 - 60105 Fourchette
+Scibids,Data Engineer,42k -45k,42k,45k,41677 - 45227 Fourchette
+Anaya,Data Engineer,46k -50k,46k,50k,46234 - 49996 Fourchette
+LVMH,Data Engineer,56k -60k,56k,60k,55824 - 60148 Fourchette
+QUANT AI Lab,Data Engineer,48k -51k,48k,51k,47652 - 51182 Fourchette
+Tiime,Data Engineer,52k -56k,52k,56k,51664 - 56290 Fourchette
+anaya consulting,Data Engineer,46k -50k,46k,50k,45716 - 50180 Fourchette
+Test,Data Engineer,48k -52k,48k,52k,48475 - 52426 Fourchette
+Leavy,Data Engineer,45k -49k,45k,49k,44940 - 49192 Fourchette
+Groupe BPCE,Data Engineer - Mensuel,4k -4k,4k,4k,3890 - 4255 Fourchette
+titato placard,Data Engineer,51k -55k,51k,55k,51062 - 55110 Fourchette
+Sennder,Data Engineer,43k -47k,43k,47k,43068 - 46677 Fourchette
+EPSILON (France),Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1172 - 1277 Fourchette
+Reezocar,Data Engineer,48k -52k,48k,52k,48149 - 52294 Fourchette
+Linkfluence,Data Engineer,41k -44k,41k,44k,40977 - 44219 Fourchette
+IBMI,Data Engineer,46k -50k,46k,50k,45896 - 49913 Fourchette
+Kayrros,Data Engineer - Stagiaire mensuel,2k -2k,2k,2k,1689 - 1834 Fourchette
+Institut Curie,Data Engineer,36k -40k,36k,40k,36212 - 39860 Fourchette
+Amarris Groupe,Data Engineer,45k -50k,45k,50k,45489 - 49526 Fourchette
+Winamax,Data Engineer,53k -58k,53k,58k,52648 - 57991 Fourchette
+NOVENCIA Group,Data Engineer,62k -66k,62k,66k,62249 - 66383 Fourchette
+Lyreco,Data Engineer,38k -41k,38k,41k,38383 - 41441 Fourchette
+Arcane (France),Data Engineer,43k -47k,43k,47k,43470 - 46722 Fourchette
+Thales,Data Engineer - Stagiaire mensuel,1k -2k,1k,2k,1391 - 1505 Fourchette
+Athoria,Data Engineer,35k -38k,35k,38k,34854 - 37948 Fourchette
+Andra,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1035 - 1127 Fourchette
+LiveRamp,Data Engineer,47k -51k,47k,51k,46959 - 50942 Fourchette
+Up2Mark Solutions,Data Engineer,33k -37k,33k,37k,33361 - 36626 Fourchette
+Real Consulting Data,Data Engineer,39k -42k,39k,42k,38732 - 41667 Fourchette
+Nokia,Data Engineer,44k -48k,44k,48k,43688 - 47567 Fourchette
+Natixis,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1120 - 1205 Fourchette
+Schlumberger,Data Engineer - Stagiaire mensuel,1k -2k,1k,2k,1494 - 1639 Fourchette
+l'equipe,Data Engineer,43k -47k,43k,47k,43209 - 47158 Fourchette
+BNP Paribas Personal Finance,Data Engineer - Mensuel,2k -2k,2k,2k,2215 - 2400 Fourchette
+Equancy,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1339 - 1432 Fourchette
+SNCF Réseau,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1016 - 1082 Fourchette
+Teaching Personnel,Data Engineer - Mensuel,3k -3k,3k,3k,3021 - 3245 Fourchette
+Groupe SEB,Data Engineer - Stagiaire mensuel,2k -2k,2k,2k,1585 - 1708 Fourchette
+Trustpair,Data Engineer - Mensuel,2k -2k,2k,2k,1503 - 1634 Fourchette
+Mobile Devices,Data Engineer,38k -41k,38k,41k,37680 - 40659 Fourchette
+Boursorama,Data Engineer,44k -47k,44k,47k,44052 - 47397 Fourchette
+Ginger CEBTP,Data Engineer,38k -41k,38k,41k,37670 - 41481 Fourchette
+Dassault Systemes,Data Engineer,62k -68k,62k,68k,62492 - 68115 Fourchette
+EXALT,Data Engineer,48k -51k,48k,51k,47524 - 51312 Fourchette
+EuroConsult,Data Engineer,39k -42k,39k,42k,39022 - 41631 Fourchette
+ENGIE Cofely,Data Engineer,40k -44k,40k,44k,40417 - 44101 Fourchette
+CGI,Data Engineer - Stagiaire mensuel,962 -1k,962,1k,962 - 1044 Fourchette
+Avanci,Data Engineer,34k -38k,34k,38k,34240 - 37653 Fourchette
+Airbus,Data Engineer - Contrat temporaire mensuel,1k -2k,1k,2k,1453 - 1570 Fourchette
+Rupali Bank Limited,Data Engineer,43k -46k,43k,46k,42646 - 45507 Fourchette
+Michelin,Data Engineer,48k$US -52k$US,48k$US,52k$US,48283$US - 51522$US Fourchette
+Atida,Data Engineer,53k -57k,53k,57k,53193 - 56838 Fourchette
+Altran Group,Data Engineer,46k -50k,46k,50k,46045 - 50086 Fourchette
+GE Healthcare,Data Engineer,43k -46k,43k,46k,43305 - 46235 Fourchette
+Adloox,Data Engineer,41k -44k,41k,44k,40622 - 44107 Fourchette
+Dropix,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1013 - 1113 Fourchette
+DecideOm,Data Engineer,30k -33k,30k,33k,29926 - 32715 Fourchette
+RG System,Data Engineer - Mensuel,1k -1k,1k,1k,1104 - 1183 Fourchette
+Publicis Sapient,Data Engineer,54k -58k,54k,58k,53808 - 58055 Fourchette
+Spendesk,Data Engineer,74k -80k,74k,80k,74423 - 80371 Fourchette
+InfoTrie Financial Solutions,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1011 - 1084 Fourchette
+Natixis,Data Engineer,95k -102k,95k,102k,95441 - 101875 Fourchette
+Ecole Polytechnique,Data Engineer,45k -49k,45k,49k,44974 - 49406 Fourchette
+IMT Atlantique,Data Engineer,19k -21k,19k,21k,19276 - 20844 Fourchette
+Adrian Flux,Data Engineer,58k -63k,58k,63k,57930 - 63001 Fourchette
+ALSTOM,Data Engineer,60k -65k,60k,65k,59970 - 64807 Fourchette
+Harnham,Data Engineer,49k -53k,49k,53k,49200 - 53132 Fourchette
+Ericsson IT Solutions & Services,Data Engineer,50k -55k,50k,55k,50408 - 54823 Fourchette
+Matmut,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1088 - 1175 Fourchette
+DataKund,Data Engineer,48k -52k,48k,52k,47809 - 52365 Fourchette
+Aucun,Data Engineer - Contrat temporaire mensuel,5k -5k,5k,5k,4820 - 5253 Fourchette
+AFD.TECH,Data Engineer,35k -38k,35k,38k,35451 - 38145 Fourchette
+Sopra Steria,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1010 - 1096 Fourchette
+Eureden,Data Engineer - Mensuel,1k -1k,1k,1k,1237 - 1338 Fourchette
+Groupama,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1206 - 1306 Fourchette
+Matmut,Data Engineer,40k -43k,40k,43k,40491 - 43487 Fourchette
+Motown Auto Distributing,Data Engineer,35k -38k,35k,38k,35086 - 38272 Fourchette
+CACIB,Data Engineer - Stagiaire mensuel,2k -2k,2k,2k,1640 - 1756 Fourchette
+Stellantis,Data Engineer - Mensuel,872 -950,872,950,872 - 950 Fourchette
+MinuteBuzz,Data Engineer,36k -39k,36k,39k,36046 - 38630 Fourchette
+Azerty,Data Engineer,46k$US -50k$US,46k$US,50k$US,46137$US - 50062$US Fourchette
+artéfact,Data Engineer,44k -47k,44k,47k,43596 - 47188 Fourchette
+Beezen,Data Engineer,41k -43k,41k,43k,40569 - 43453 Fourchette
+Adecco,Data Engineer,34k -36k,34k,36k,33569 - 35908 Fourchette
+Michelin,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1342 - 1454 Fourchette
+Insyco,Data Engineer,46k -49k,46k,49k,46411 - 49302 Fourchette
+Talan,Data Engineer - Stagiaire mensuel,2k -2k,2k,2k,1530 - 1663 Fourchette
+Shippeo,Data Engineer - Mensuel,5k -5k,5k,5k,4544 - 4993 Fourchette
+Diggers,Data Engineer,40k -43k,40k,43k,39843 - 43043 Fourchette
+PriceHubble,Data Engineer - Stagiaire mensuel,2k -2k,2k,2k,1651 - 1777 Fourchette
+Converteo,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1339 - 1460 Fourchette
+Ask Locala,Data Engineer,60k -65k,60k,65k,60089 - 65146 Fourchette
+Allianz Trade,Data Engineer,48k -52k,48k,52k,47964 - 51538 Fourchette
+Lo,Data Engineer,73k -78k,73k,78k,73025 - 78084 Fourchette
+ING,Data Engineer,70k -76k,70k,76k,69636 - 75696 Fourchette
+Cango,Data Engineer,67k -73k,67k,73k,67256 - 72819 Fourchette
+Eulidia,Data Engineer,40k -43k,40k,43k,39862 - 42757 Fourchette
+Deezer,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1362 - 1459 Fourchette
+Jacques Vert,Data Engineer,50k -54k,50k,54k,50344 - 54186 Fourchette
+Sia Partners,Data Engineer,77k -84k,77k,84k,77056 - 84098 Fourchette
+Nexity,Data Engineer,37k -41k,37k,41k,37309 - 40926 Fourchette
+PriceHubble,Data Engineer - Mensuel,2k -2k,2k,2k,2010 - 2165 Fourchette
+Metro,Data Engineer,51k -55k,51k,55k,50527 - 54868 Fourchette
+Banque de France,Data Engineer - Stagiaire,36k -39k,36k,39k,35859 - 39055 Fourchette
+Altran Technologies,Data Engineer,41k -44k,41k,44k,41223 - 44309 Fourchette
+OYST,Data Engineer,57k -63k,57k,63k,57296 - 62791 Fourchette
+Equativ,Data Engineer,57k -62k,57k,62k,56615 - 61849 Fourchette
+Treez Data Management,Data Engineer,45k -47k,45k,47k,44542 - 47426 Fourchette
+Eiffage,Data Engineer,62k -66k,62k,66k,62005 - 66331 Fourchette
+AXA,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1307 - 1405 Fourchette
+Caisse des Dépôts et Consignations,Data Engineer,61k -66k,61k,66k,60926 - 65864 Fourchette
+Deepki,Data Engineer,41k -44k,41k,44k,40652 - 43972 Fourchette
+Freelancer,Data Engineer - Stagiaire mensuel,753 -822,753,822,753 - 822 Fourchette
+Ministère de l'Intérieur,Data Engineer,48k -52k,48k,52k,48274 - 51778 Fourchette
+GROOPTOWN,Data Engineer,59k -64k,59k,64k,58789 - 63897 Fourchette
+Neobrain,Data Engineer,44k -47k,44k,47k,43606 - 47331 Fourchette
+AT Internet,Data Engineer,33k -35k,33k,35k,32951 - 35133 Fourchette
+MOI,Data Engineer - Mensuel,5k -6k,5k,6k,5275 - 5670 Fourchette
+ITrust,Data Engineer,46k -50k,46k,50k,46155 - 49890 Fourchette
+DataScientest,Data Engineer,61k -65k,61k,65k,60603 - 65456 Fourchette
+Tweag Software Innovation Lab,Data Engineer,48k -52k,48k,52k,48204 - 52139 Fourchette
+Sagemcom,Data Engineer,39k -43k,39k,43k,39186 - 42545 Fourchette
+Compte-Nickel,Data Engineer,56k -60k,56k,60k,56228 - 60259 Fourchette
+Via Seating,Data Engineer,51k -55k,51k,55k,50937 - 55387 Fourchette
+Natixis,Data Engineer - Mensuel,2k -2k,2k,2k,1540 - 1679 Fourchette
+Mphasis,Data Engineer - Mensuel,4k -5k,4k,5k,4409 - 4768 Fourchette
+ABC Portage,Data Engineer,52k -56k,52k,56k,51560 - 56081 Fourchette
+Wolters Kluwer,Data Engineer,55k -59k,55k,59k,54881 - 59380 Fourchette
+Companhia Docas do Espírito Santo (Codesa),Data Engineer,38k -41k,38k,41k,38439 - 41262 Fourchette
+Aitenders,Data Engineer,51k -55k,51k,55k,50698 - 54915 Fourchette
+Coyote System,Data Engineer,38k -42k,38k,42k,38442 - 42238 Fourchette
+Adalte,Data Engineer,45k -48k,45k,48k,44999 - 48471 Fourchette
+Carrefour,Data Engineer,46k -50k,46k,50k,45947 - 50039 Fourchette
+Thales,Data Engineer,38k -41k,38k,41k,38473 - 41301 Fourchette
+C-Ways (France),Data Engineer,41k -45k,41k,45k,41064 - 45290 Fourchette
+CEGID,Data Engineer,41k -44k,41k,44k,41186 - 44202 Fourchette
+Daher,Data Engineer,26k -28k,26k,28k,25806 - 27750 Fourchette
+Formation,Data Engineer - Mensuel,2k -2k,2k,2k,1525 - 1647 Fourchette
+La Poste du Togo,Data Engineer - Horaire,20 -22,20,22,20 - 22 Fourchette
+LesFurets.com,Data Engineer,41k -45k,41k,45k,40886 - 44698 Fourchette
+Freelancer,Data Engineer,40k -44k,40k,44k,40429 - 44029 Fourchette
+CyberCoders,Data Engineer - Mensuel,863 -928,863,928,863 - 928 Fourchette
+Fydem,Data Engineer,39k -42k,39k,42k,38703 - 41733 Fourchette
+Pierre Fabre,Data Engineer,56k -61k,56k,61k,56482 - 60543 Fourchette
+DDD,Data Engineer,38k -41k,38k,41k,38151 - 41206 Fourchette
+Squad,Data Engineer,36k -40k,36k,40k,36497 - 40036 Fourchette
+Amadeus,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1130 - 1230 Fourchette
+Clarins,Data Engineer - Stagiaire mensuel,1k -1k,1k,1k,1201 - 1313 Fourchette
+Saagie,Data Engineer,54k -59k,54k,59k,53614 - 58535 Fourchette
+Generali,Data Engineer - Mensuel,2k -2k,2k,2k,1826 - 1979 Fourchette
+Thomas Paul Constructions,Data Engineer,43k -47k,43k,47k,42854 - 46913 Fourchette
+Free (France),Data Engineer,41k -44k,41k,44k,41237 - 44486 Fourchette
+Travel Planet,Data Engineer,45k -49k,45k,49k,44813 - 48523 Fourchette
+Wiidii,Data Engineer,40k -44k,40k,44k,39724 - 43570 Fourchette
+BNP Paribas,Data Scientist,48455,25k,83k,24940 - 82500 Fourchette
+Orange,Data Scientist,47861,17k,80k,17265 - 79759 Fourchette
+Capgemini,Data Scientist,41108,22k,59k,22446 - 58653 Fourchette
+Société Générale,Data Scientist,51909,40k,64k,40000 - 63500 Fourchette
+Orange,Data Analyst,47861,16k,60k,15600 - 60011 Fourchette
+Shift Technology,Data Scientist,48307,42k,63k,41923 - 63430 Fourchette
+AXA,Data Scientist,52312,39k,67k,39346 - 66625 Fourchette
+AXA,Data Analyst,42543,24k,58k,23992 - 57667 Fourchette
+Quantmetry,Data Scientist,44768,40k,57k,39563 - 56948 Fourchette
+Orange,Data Scientist - Stagiaire mensuel,1430,1k,2k,1128 - 1964 Fourchette
+Criteo,Data Analyst,50088,44k,63k,44000 - 63408 Fourchette
+Airbus,Data Scientist,45590,37k,56k,36945 - 56028 Fourchette
+BNP Paribas,Data Analyst,45000,26k,69k,26092 - 69271 Fourchette
+Société Générale,Data Scientist - Stagiaire mensuel,1782,1k,2k,1279 - 2050 Fourchette
+BNP Paribas,Data Scientist - Stagiaire mensuel,1663,389,2k,389 - 2234 Fourchette
+AXA,Data Scientist - Stagiaire mensuel,1919,1k,3k,1362 - 2547 Fourchette
+Amadeus,Data Scientist,50032,27k,65k,26589 - 64875 Fourchette
+Renault Group,Data Scientist,51503,40k,91k,40007 - 90690 Fourchette
+TotalEnergies,Data Scientist,50088,41k,64k,40922 - 64341 Fourchette
+Orange,Data Analyst - Stagiaire mensuel,1362,1k,2k,1170 - 1773 Fourchette
+Thales,Data Scientist,48408,36k,64k,36313 - 64417 Fourchette
+Deloitte,Data Scientist,47258,40k,58k,40174 - 58313 Fourchette
+EY,Data Scientist,48072,40k,101k,40000 - 101238 Fourchette
+CGI,Data Scientist,40438,35k,52k,35034 - 52372 Fourchette
+Crédit Agricole,Data Scientist,42403,19k,59k,19389 - 58826 Fourchette
+Criteo,Data Scientist,64937,34k,186k,33928 - 186350 Fourchette
+Artefact,Data Scientist,50837,44k,73k,44019 - 72743 Fourchette
+Bouygues Telecom,Data Analyst,41609,28k,49k,27502 - 48964 Fourchette
+Fifty-Five,Data Analyst,43237,39k,45k,38534 - 45323 Fourchette
+EDF,Data Scientist,45871,36k,680k,35910 - 680340 Fourchette
+Capgemini,Data Analyst,40000,25k,54k,25268 - 53694 Fourchette
+Capgemini Invent,Data Scientist,52439,47k,80k,47225 - 80081 Fourchette
+CNRS,Data Scientist - Mensuel,2615,2k,5k,1542 - 4591 Fourchette
+Carrefour,Data Scientist,50884,42k,56k,42113 - 56039 Fourchette
+Sopra Steria,Data Scientist,39274,34k,61k,33669 - 60522 Fourchette
+Capgemini,Data Scientist - Stagiaire mensuel,1445,1k,2k,1110 - 1552 Fourchette
+Amadeus,Data Scientist - Stagiaire mensuel,1584,1k,2k,1170 - 1980 Fourchette
+Safran,Data Scientist,49092,37k,81k,37165 - 80851 Fourchette
+Ubisoft,Data Analyst,48370,35k,57k,34998 - 56853 Fourchette
+Criteo,Senior Data Analyst,63523,58k,72k,57543 - 71614 Fourchette
+Artefact,Data Consultant,43228,41k,49k,40766 - 48845 Fourchette
+Add Intelligence to data,Data Scientist,44760,35k,49k,35168 - 49045 Fourchette
+Sia Partners,Data Scientist,48000,45k,55k,45015 - 54572 Fourchette
+Capgemini Engineering,Data Scientist,40416,32k,53k,32046 - 53012 Fourchette
+Crédit Agricole,Data Scientist - Stagiaire mensuel,1241,533,2k,533 - 1900 Fourchette
+BNP Paribas,Data Analyst - Stagiaire mensuel,1851,1k,2k,1306 - 2124 Fourchette
+Shift Technology,Senior Data Scientist,54737,52k,66k,51771 - 66287 Fourchette
+Deezer,Data Scientist,48184,44k,61k,44293 - 61085 Fourchette
+Aquila Data Enabler,Data Scientist,50528,45k,53k,45015 - 53012 Fourchette
+onepoint,Data Scientist,47711,38k,55k,37587 - 55132 Fourchette
+Atos,Data Scientist,41738,32k,53k,31816 - 53179 Fourchette
+TotalEnergies,Data Scientist - Stagiaire mensuel,1380,1k,4k,1100 - 3976 Fourchette
+Google,Data Scientist,68668,42k,120k,41899 - 120000 Fourchette
+Natixis,Data Scientist - Stagiaire mensuel,1505,1k,2k,1100 - 2051 Fourchette
+Airbus,Data Analyst,42770,21k,58k,20989 - 57592 Fourchette
+Crédit Agricole,Data Analyst,32538,15k,55k,15000 - 55000 Fourchette
+Renault Group,Data Analyst,44979,36k,69k,36313 - 69000 Fourchette
+Expleo Group,Data Scientist,39652,37k,48k,37000 - 47957 Fourchette
+ALTEN,Data Scientist,37709,32k,49k,31907 - 48771 Fourchette
+Ekimetrics,Data Scientist,45284,40k,59k,40049 - 58500 Fourchette
+Assystem,Data Scientist,45195,39k,53k,39171 - 53286 Fourchette
+TotalEnergies,Data Analyst,43314,32k,51k,32346 - 51000 Fourchette
+ALTEN,Data Analyst,37225,31k,49k,31442 - 49086 Fourchette
+Fifty-Five,Senior Data Analyst,51213,46k,54k,45654 - 53658 Fourchette
+Cdiscount,Data Scientist,45746,39k,57k,39441 - 57155 Fourchette
+EDF,Data Scientist - Stagiaire mensuel,1102,1k,1k,1001 - 1353 Fourchette
+Faurecia,Data Scientist,52630,41k,70k,41479 - 69559 Fourchette
+IBM,Data Scientist,53895,43k,129k,43187 - 129257 Fourchette
+Dassault Systemes,Data Scientist,48670,17k,148k,16625 - 148433 Fourchette
+Natixis,Data Scientist,53920,16k,101k,15986 - 101243 Fourchette
+Generali,Data Scientist,51154,41k,63k,41357 - 62799 Fourchette
+Société Générale,Data Analyst,42184,25k,64k,24526 - 63943 Fourchette
+CGI,Data Analyst,37908,31k,45k,31442 - 44543 Fourchette
+EDF,Data Analyst - Stagiaire mensuel,1094,943,2k,943 - 1650 Fourchette
+Umbrella Corporation,Data Scientist,47957,48k,59k,47861 - 58614 Fourchette
+ENGIE,Data Scientist,43470,30k,62k,29746 - 62002 Fourchette
+SNCF,Data Scientist,53396,15k,73k,14964 - 73365 Fourchette
+Capgemini Engineering,Data Scientist - Stagiaire mensuel,1064,833,1k,833 - 1450 Fourchette
+Thales,Data Scientist - Stagiaire mensuel,1324,1k,2k,1194 - 1677 Fourchette
+Polynom,Data Scientist - Stagiaire mensuel,1273,838,2k,838 - 1679 Fourchette
+Sicara,Data Scientist,49506,45k,62k,44760 - 62125 Fourchette
+Orange,Data Scientist - Mensuel,1657,1k,3k,1159 - 3191 Fourchette
+AVISIA,Data Scientist,43994,37k,50k,37000 - 50103 Fourchette
+Groupe SII,Data Scientist,41349,34k,48k,33519 - 47861 Fourchette
+Air France,Data Analyst,43173,41k,51k,40575 - 51153 Fourchette
+Orange,Data Analyst - Mensuel,1492,1k,2k,1083 - 2108 Fourchette
+Société Générale,Data Analyst - Stagiaire mensuel,1752,1k,2k,1088 - 1914 Fourchette
+Capgemini Engineering,Data Analyst,40948,32k,62k,32000 - 62467 Fourchette
+SFR,Data Analyst,42366,36k,65k,36169 - 64550 Fourchette
+TotalEnergies,Data Analyst - Stagiaire mensuel,1098,742,2k,742 - 1707 Fourchette
+EDF,Data Analyst,41636,16k,67k,15979 - 66782 Fourchette
+Capgemini Invent,Senior Data Scientist,59787,58k,72k,58000 - 71566 Fourchette
+Quantmetry,Senior Data Scientist,59706,53k,67k,52641 - 67240 Fourchette
+Amadeus,Data Science Engineer,47679,43k,54k,42567 - 53913 Fourchette
+Amadeus,Data Science - Stagiaire mensuel,1617,2k,2k,1595 - 1918 Fourchette
+Amadeus,Data Scientist Intern - Mensuel,1871,2k,2k,1596 - 1914 Fourchette
+Aixial Group,Clinical Data Manager,44589,42k,57k,41567 - 57155 Fourchette
+Sia Partners,Consultant Data Scientist,48000,45k,55k,45356 - 55132 Fourchette
+Ubisoft,Data Scientist,53107,41k,78k,40979 - 77939 Fourchette
+Umanis,Data Scientist,46314,36k,156k,36234 - 156346 Fourchette
+Thales,Data Scientist - Mensuel,1425,1k,2k,1059 - 1600 Fourchette
+Nokia,Data Scientist,47749,31k,84k,31472 - 83846 Fourchette
+Boston Consulting Group,Data Scientist,67166,43k,73k,42628 - 72721 Fourchette
+Groupama,Data Scientist,45751,22k,70k,22039 - 70000 Fourchette
+La Banque Postale,Data Scientist,53000,42k,83k,42000 - 82672 Fourchette
+LittleBigCode,Data Scientist,50109,47k,61k,46797 - 60522 Fourchette
+Carrefour,Data Scientist - Stagiaire mensuel,1526,1k,2k,1048 - 2150 Fourchette
+Dataiku,Data Scientist,58294,47k,85k,47377 - 85369 Fourchette
+Business & Decision Group,Data Scientist,42628,33k,59k,33000 - 58530 Fourchette
+Accenture,Data Scientist,46228,40k,59k,39897 - 58692 Fourchette
+Allianz,Data Scientist - Stagiaire mensuel,1729,849,2k,849 - 1980 Fourchette
+Groupe BPCE,Data Analyst,42154,39k,73k,39269 - 72743 Fourchette
+Natixis,Data Analyst,51802,21k,61k,20961 - 60514 Fourchette
+Cdiscount,Data Analyst,40709,33k,48k,32687 - 47711 Fourchette
+Airbus,Data Analyst - Stagiaire mensuel,1170,786,1k,786 - 1227 Fourchette
+AXA,Data Analyst - Stagiaire mensuel,1637,1k,2k,1004 - 1861 Fourchette
+Caisse d'Epargne,Data Analyst,42624,20k,79k,19841 - 78605 Fourchette
+Artefact,Senior Data Scientist,64482,62k,68k,62181 - 68069 Fourchette
+BNP Paribas,Intern data scientist - Mensuel,2035,2k,2k,1597 - 2242 Fourchette
+Fifty-Five,Data Analyst Associate - Stagiaire mensuel,1078,988,1k,988 - 1266 Fourchette
+Ipsos,Data Scientist,40447,32k,58k,31856 - 57720 Fourchette
+Sogeti,Data Scientist,35553,34k,55k,33963 - 55191 Fourchette
+Micropole,Data Scientist,47377,35k,150k,35236 - 149645 Fourchette
+CEA,Data Scientist,42157,28k,54k,28078 - 53645 Fourchette
+FieldBox.ai,Data Scientist,47957,38k,55k,38359 - 55303 Fourchette
+Heetch,Data Scientist,55239,48k,78k,47861 - 77641 Fourchette
+Epsilon,Data Scientist,44670,17k,50k,16636 - 49603 Fourchette
+SNCF Réseau,Data Scientist - Stagiaire mensuel,1118,1k,1k,1041 - 1306 Fourchette
+Keyrus,Data Scientist,42628,33k,45k,32986 - 45284 Fourchette
+Quinten,Data Scientist,47861,39k,51k,38783 - 51356 Fourchette
+AKKA Technologies,Data Scientist,38450,32k,49k,31712 - 48695 Fourchette
+Amazon,Data Scientist,57612,38k,79k,37941 - 78562 Fourchette
+Jellysmack,Data Scientist,52226,50k,65k,50000 - 65282 Fourchette
+ENGIE,Data Scientist - Stagiaire mensuel,1517,1k,2k,1078 - 1706 Fourchette
+Aucun,Data Scientist,39899,19k,53k,19200 - 52696 Fourchette
+QuantCube Technology,Data Scientist - Stagiaire mensuel,1492,1k,2k,1200 - 1550 Fourchette
+Allianz,Data Scientist,51588,29k,59k,29355 - 59373 Fourchette
+Generali,Data Scientist - Stagiaire mensuel,1520,131,2k,131 - 1622 Fourchette
+LCL,Data Scientist,47957,43k,70k,42510 - 69662 Fourchette
+QuantCube Technology,Data Scientist,47957,8k,57k,7763 - 56837 Fourchette
+Veepee,Data Analyst,42000,32k,55k,32111 - 55000 Fourchette
+Artefact,Data Analyst,45734,39k,59k,39000 - 59000 Fourchette
+La Banque Postale,Data Analyst,42369,37k,53k,37322 - 53286 Fourchette
+Oney,Data Analyst,41923,24k,62k,23607 - 62269 Fourchette
+Safran,Data Analyst,40400,36k,48k,36182 - 47957 Fourchette
+Bouygues Telecom,Data Analyst - Stagiaire mensuel,1279,895,2k,895 - 1595 Fourchette
+Amazon,Data Analyst,47163,35k,200k,35000 - 200000 Fourchette
+Contentsquare,Data Analyst,46203,22k,57k,22000 - 57466 Fourchette
+Banque Populaire,Data Analyst,44707,25k,57k,24940 - 56596 Fourchette
+Boston Consulting Group,Senior Data Scientist,115500,94k,138k,94451 - 137500 Fourchette
+BNP Paribas,Data Scientist Intern - Mensuel,2182,1k,2k,1489 - 2238 Fourchette
+Artefact,Data Consultant - Stagiaire mensuel,1279,1k,2k,1222 - 1500 Fourchette
+EY,Consultant Data Scientist,47409,42k,52k,41563 - 51713 Fourchette
+Linkfluence,Social Data Analyst,32346,32k,48k,31618 - 47774 Fourchette
+Etudiant,Data Scientist - Stagiaire mensuel,936,818,3k,818 - 3451 Fourchette
+Air Liquide,Data Scientist,50862,39k,110k,39303 - 110000 Fourchette
+Kayrros,Data Scientist,49340,46k,60k,46362 - 60000 Fourchette
+CS Group,Data Scientist,42345,38k,48k,38227 - 48000 Fourchette
+Margo,Data Scientist,46587,43k,53k,43165 - 53452 Fourchette
+AXA / France,Data Scientist,50258,48k,56k,47861 - 56268 Fourchette
+Atos,Data Scientist - Stagiaire mensuel,1261,906,2k,906 - 1776 Fourchette
+Metron (France),Data Scientist,53324,48k,58k,48049 - 57966 Fourchette
+Sanofi,Data Scientist,61752,48k,78k,47957 - 77500 Fourchette
+Etudiant,Data Scientist - Mensuel,2220,1k,4k,1450 - 3935 Fourchette
+BNP Paribas Cardif,Data Scientist,47957,47k,69k,46503 - 68505 Fourchette
+Renault Group,Data Scientist - Stagiaire mensuel,1230,1k,1k,1071 - 1294 Fourchette
+Onogone,Data Scientist,45978,44k,53k,43646 - 52703 Fourchette
+Talan,Data Scientist,41670,36k,48k,35681 - 47999 Fourchette
+Direct Assurance,Data Scientist - Stagiaire mensuel,1873,2k,2k,1650 - 2021 Fourchette
+ALTEN,Data Scientist - Stagiaire mensuel,1045,1k,1k,1033 - 1265 Fourchette
+Rexel Group,Data Scientist,45067,40k,56k,40497 - 55831 Fourchette
+AXA / France,Data Scientist - Stagiaire mensuel,1690,1k,2k,1492 - 1916 Fourchette
+Microsoft,Data Scientist,55630,44k,89k,44000 - 88694 Fourchette
+Openvalue,Data Scientist,53822,41k,63k,41417 - 62849 Fourchette
+Bouygues Telecom,Data Scientist,53031,50k,64k,49603 - 63994 Fourchette
+Orange Business Services,Data Scientist,44753,40k,58k,39652 - 58497 Fourchette
+Direct Assurance,Data Scientist,47834,20k,58k,20400 - 57782 Fourchette
+Withings,Data Scientist,49118,43k,59k,43132 - 59373 Fourchette
+Numberly (1000mercis group),Data Analyst,39050,15k,50k,15383 - 50308 Fourchette
+BlaBlaCar,Data Analyst,45611,31k,46k,31442 - 46104 Fourchette
+Carrefour,Data Analyst,39919,31k,45k,31175 - 45000 Fourchette
+IBM,Data Analyst,41226,34k,57k,34103 - 56837 Fourchette
+Criteo,Data Analyst - Stagiaire mensuel,1608,2k,2k,1592 - 1650 Fourchette
+Organisation for Economic Co-operation and Development,Data Analyst,49556,38k,64k,37941 - 63815 Fourchette
+Safran,Data Analyst - Stagiaire mensuel,1267,1k,2k,1009 - 1776 Fourchette
+Google,Data Analyst,56424,25k,85k,24802 - 85000 Fourchette
+Accenture,Data Analyst,41529,40k,49k,40291 - 49213 Fourchette
+Chanel,Data Analyst - Stagiaire mensuel,1478,1k,2k,1137 - 1532 Fourchette
+Deloitte,Data Analyst,42972,23k,55k,22638 - 55000 Fourchette
+PwC,Data Analyst,38222,29k,55k,29217 - 55216 Fourchette
+Papernest,Data Analyst - Stagiaire mensuel,1041,1k,1k,1000 - 1066 Fourchette
+Meero,Data Analyst,47163,40k,53k,40416 - 53286 Fourchette
+Keyrus,Data Analyst,39850,32k,48k,32346 - 48069 Fourchette
+Mazars,Data Analyst,43607,26k,47k,25977 - 47163 Fourchette
+AVISIA,Consultant Data Scientist,43383,41k,56k,40971 - 55950 Fourchette
+Société Générale,Data Quality Manager,50520,12k,58k,12000 - 57905 Fourchette
+Inetum,Ingénieur big data,51648,35k,67k,34566 - 66815 Fourchette
+JEMS Group,Data Scientist,45319,40k,90k,39899 - 89563 Fourchette
+Banque de France,Data Scientist,48095,39k,61k,39000 - 60605 Fourchette
+Freelance,Data Scientist,46503,42k,62k,42113 - 62004 Fourchette
+Aperam,Data Scientist,43048,39k,45k,39450 - 44832 Fourchette
+Davidson Consulting,Data Scientist,47957,43k,50k,42544 - 50000 Fourchette
+La Javaness,Data Scientist,50217,48k,56k,47629 - 56488 Fourchette
+PwC,Data Scientist,52220,47k,76k,46763 - 75900 Fourchette
+Inria,Data Scientist,39979,23k,48k,22712 - 47861 Fourchette
+Continental,Data Scientist,53306,46k,60k,45834 - 59507 Fourchette
+SNCF,Data Scientist - Stagiaire mensuel,970,600,1k,600 - 1275 Fourchette
+Abylsen,Data Scientist,30925,22k,48k,21600 - 47957 Fourchette
+Avanade,Data Scientist,46324,41k,54k,41060 - 53783 Fourchette
+L'Oréal,Data Scientist - Stagiaire mensuel,1497,1k,2k,1450 - 1537 Fourchette
+L'Oréal,Data Scientist,51670,16k,71k,15954 - 71198 Fourchette
+nam.R,Data Scientist,45392,42k,50k,42000 - 49988 Fourchette
+Banque de France,Data Scientist - Stagiaire mensuel,1671,1k,2k,1398 - 1861 Fourchette
+Groupe BPCE,Data Scientist,47957,41k,61k,41233 - 61127 Fourchette
+happn,Data Scientist,50430,49k,53k,48771 - 53179 Fourchette
+Renault Group,Data Scientist - Mensuel,1295,1k,1k,1069 - 1369 Fourchette
+Saint-Gobain,Data Scientist,54747,43k,64k,42543 - 63562 Fourchette
+KPMG,Data Scientist,51052,47k,53k,46891 - 53413 Fourchette
+Equancy,Data Scientist,40979,39k,44k,39171 - 43646 Fourchette
+CACIB,Data Scientist - Stagiaire mensuel,1900,204,2k,204 - 2025 Fourchette
+Eulidia,Data Scientist,46945,43k,53k,42628 - 53179 Fourchette
+Soft Computing,Data Scientist,43294,40k,45k,40416 - 44760 Fourchette
+Veepee,Data Scientist,53102,43k,63k,43048 - 62884 Fourchette
+Ministère de l'Éducation nationale,Data Scientist,44219,31k,61k,31062 - 60522 Fourchette
+Saint-Gobain,Data Analyst,45202,42k,50k,41923 - 49500 Fourchette
+Araxxe,Data Analyst,30136,22k,31k,22446 - 31270 Fourchette
+Papernest,Data Analyst,45590,42k,50k,41923 - 49831 Fourchette
+AKKA Technologies,Data Analyst,37780,34k,40k,34034 - 39600 Fourchette
+LCL,Data Analyst,41978,41k,55k,40820 - 55000 Fourchette
+La Redoute,Data Analyst,40971,31k,45k,31424 - 45153 Fourchette
+AXA Partners,Data Analyst - Stagiaire mensuel,1702,1k,2k,1387 - 1860 Fourchette
+Groupe M6,Data Analyst,40416,36k,47k,36162 - 46503 Fourchette
+Cegedim,Data Analyst,42409,39k,47k,39462 - 46956 Fourchette
+Kisio,Data Analyst,35618,34k,42k,33538 - 42276 Fourchette
+happn,Data Analyst,50000,42k,60k,42000 - 60000 Fourchette
+Amadeus,Data Analyst - Stagiaire mensuel,1168,638,1k,638 - 1276 Fourchette
+Crédit Agricole,Data Analyst - Mensuel,1609,1k,2k,1340 - 2223 Fourchette
+Sopra Steria,Data Analyst,36313,28k,48k,28058 - 47999 Fourchette
+Dailymotion,Data Analyst,54469,52k,59k,52032 - 59300 Fourchette
+Dashlane,Data Analyst,44869,24k,57k,24000 - 56948 Fourchette
+Saegus,Data Analyst,45067,45k,48k,44530 - 47971 Fourchette
+Sage,Data Analyst,47225,37k,60k,36623 - 59740 Fourchette
+Société Générale,Big Data Engineer,49128,42k,121k,41567 - 121045 Fourchette
+OWKIN,Senior Data Scientist,69132,63k,70k,62608 - 70000 Fourchette
+EY,Senior Data Scientist,57291,48k,61k,47923 - 61265 Fourchette
+Inserm,Data Manager - Mensuel,2205,2k,3k,1842 - 3230 Fourchette
+Aixial Group,Data Manager,45319,42k,58k,42157 - 57612 Fourchette
+CACEIS,Data Officer,39000,35k,48k,35000 - 47957 Fourchette
+Umanis,Big Data Consultant,43086,42k,449k,41610 - 449011 Fourchette
+Fifty-Five,Senior Data Consultant,48924,46k,51k,46000 - 50675 Fourchette
+Capgemini Invent,consultant data,42182,41k,60k,41357 - 60000 Fourchette
+VISEO,consultant data,41233,34k,63k,34102 - 63020 Fourchette
+Artefact,consultant data,45195,40k,50k,40497 - 50279 Fourchette
+Umanis,Ingénieur big data,42543,43k,136k,42543 - 136244 Fourchette
+Umanis,Consultant Big Data,43127,35k,47k,35204 - 47000 Fourchette
+Schneider Electric,Data Scientist - Stagiaire mensuel,1252,723,2k,723 - 1572 Fourchette
+CELAD,Data Scientist - Horaire,43,15,68,15 - 68 Fourchette
+Sanofi,Data Scientist - Mensuel,1715,2k,2k,1654 - 2008 Fourchette
+Safran,Data Scientist - Stagiaire mensuel,1105,1k,1k,1064 - 1471 Fourchette
+OCTO Technology,Data Scientist,51565,49k,53k,49348 - 53199 Fourchette
+MP DATA,Data Scientist,40099,38k,43k,37731 - 43294 Fourchette
+SUEZ,Data Scientist - Stagiaire mensuel,1130,798,1k,798 - 1433 Fourchette
+Activus Services,Data Scientist,36613,29k,42k,29479 - 41899 Fourchette
+EURA NOVA,Data Scientist,45525,38k,53k,37731 - 53347 Fourchette
+Polynom,Data Scientist,44972,42k,48k,42366 - 47711 Fourchette
+Datadog,Data Scientist,55798,55k,70k,55000 - 70000 Fourchette
+BVA Group,Data Scientist,38163,33k,39k,33203 - 38830 Fourchette
+Groupe PSA,Data Scientist,49477,47k,58k,46503 - 57548 Fourchette
+Bpifrance,Data Scientist - Stagiaire mensuel,1407,1k,1k,1279 - 1436 Fourchette
+GreenFlex,Data Scientist,46528,44k,48k,44000 - 48000 Fourchette
+Allianz Trade,Data Scientist,63901,53k,69k,53452 - 69486 Fourchette
+Maisons du Monde,Data Scientist,41689,37k,47k,37225 - 47163 Fourchette
+Artefact,Data Scientist - Stagiaire mensuel,1379,1k,2k,1237 - 1500 Fourchette
+ProbaYes,Data Scientist,44642,43k,60k,42641 - 60213 Fourchette
+Crédit Mutuel Arkea,Data Scientist - Stagiaire mensuel,1569,597,2k,597 - 1594 Fourchette
+SAP,Data Scientist,48930,47k,79k,46503 - 79343 Fourchette
+CGI,Data Scientist - Stagiaire mensuel,1423,1k,2k,1276 - 1860 Fourchette
+Sense4Data,Data Scientist,49541,42k,59k,42000 - 58614 Fourchette
+Suricog,Data Scientist,48518,48k,54k,48471 - 53909 Fourchette
+Inserm,Data Scientist,41336,32k,48k,31981 - 47861 Fourchette
+Manomano,Data Scientist,48478,45k,53k,45000 - 53179 Fourchette
+RATP Group,Data Scientist - Mensuel,2128,1k,4k,1200 - 4058 Fourchette
+Sopra Steria,Data Scientist - Stagiaire mensuel,1383,1k,1k,1100 - 1497 Fourchette
+Meta,Data Scientist,49655,23k,92k,22973 - 92000 Fourchette
+LinkValue,Data Scientist,50798,47k,61k,46973 - 61314 Fourchette
+Systemx,Data Scientist,40763,15k,43k,14689 - 43127 Fourchette
+Air France,Data Scientist - Stagiaire mensuel,1343,1k,2k,1186 - 1680 Fourchette
+NOVENCIA Group,Data Scientist,39304,26k,45k,26348 - 44670 Fourchette
+BearingPoint,Data Scientist,51257,46k,55k,45912 - 54525 Fourchette
+Airbus,Data Scientist - Stagiaire mensuel,1208,1k,1k,1100 - 1226 Fourchette
+Coface,Data Scientist,48122,44k,60k,44436 - 59500 Fourchette
+CNRS,Data Scientist - Stagiaire mensuel,625,614,4k,614 - 3875 Fourchette
+MY TRAFFIC,Data Scientist,49850,47k,50k,47163 - 50000 Fourchette
+Enedis,Data Scientist,40707,25k,70k,25000 - 69568 Fourchette
+AKUR8,Data Scientist,52693,50k,55k,50103 - 55303 Fourchette
+Capgemini Invent,Data Scientist - Stagiaire mensuel,1443,1k,2k,1200 - 1650 Fourchette
+Urban Linker,Data Scientist,52695,43k,62k,42598 - 62255 Fourchette
+DataScientest,Data Scientist,44880,36k,50k,36313 - 50000 Fourchette
+ArianeGroup,Data Scientist - Stagiaire mensuel,1258,1k,2k,1200 - 1750 Fourchette
+IQVIA,Data Scientist,55286,44k,66k,44019 - 66000 Fourchette
+BNP Paribas,Data Scientist - Mensuel,1809,1k,2k,1417 - 1833 Fourchette
+IT&M Stats,Data Scientist,44450,42k,47k,41945 - 47300 Fourchette
+Devoteam,Data Scientist,45932,39k,55k,39000 - 55132 Fourchette
+Dassault Systemes,Data Scientist - Stagiaire mensuel,1503,1k,2k,1280 - 1927 Fourchette
+Equancy,Data Scientist - Stagiaire mensuel,1351,1k,1k,1340 - 1362 Fourchette
+Bouygues Telecom,Data Scientist - Stagiaire mensuel,1574,1k,2k,1265 - 1581 Fourchette
+Veolia,Data Scientist,52220,40k,58k,39891 - 58054 Fourchette
+Extia,Data Scientist,47181,34k,51k,34200 - 51213 Fourchette
+Leroy Merlin,Data Scientist,48479,40k,50k,39884 - 50435 Fourchette
+BNP Paribas Personal Finance,Data Scientist,50449,48k,56k,48000 - 56332 Fourchette
+Airbus,Data Scientist - Mensuel,1527,1k,2k,1341 - 1670 Fourchette
+Sanofi,Data Analyst,47065,40k,70k,40315 - 69912 Fourchette
+Thales,Data Analyst,46846,40k,72k,40262 - 72338 Fourchette
+Renault Group,Data Analyst - Stagiaire mensuel,992,853,2k,853 - 1707 Fourchette
+Auchan Retail,Data Analyst,40302,38k,62k,37709 - 62004 Fourchette
+Solutec Lyon,Data Analyst,39429,36k,48k,36304 - 47861 Fourchette
+DTA Ingénierie,Data Analyst,38248,27k,48k,26546 - 47861 Fourchette
+EDF,Data Analyst - Mensuel,1337,1k,1k,1300 - 1489 Fourchette
+Avanci,Data Analyst - Mensuel,3431,2k,4k,2127 - 4254 Fourchette
+Equativ,Data Analyst,47658,42k,54k,42000 - 54120 Fourchette
+Amadeus,Data Analyst,40915,38k,45k,37656 - 45356 Fourchette
+ENGIE,Data Analyst,40764,40k,50k,39827 - 49500 Fourchette
+La Poste,Data Analyst,47534,43k,50k,42971 - 49904 Fourchette
+Micropole,Data Analyst,40174,39k,42k,39000 - 42409 Fourchette
+Extia,Data Analyst,37000,36k,43k,36240 - 42573 Fourchette
+Dassault Systemes,Data Analyst - Stagiaire mensuel,1335,1k,2k,1042 - 1592 Fourchette
+BNP Paribas,Data Analyst - Mensuel,1778,1k,2k,1443 - 2387 Fourchette
+KPMG,Data Analyst,43164,37k,56k,37225 - 56268 Fourchette
+Tata Consultancy Services,Data Analyst,43810,40k,45k,40350 - 44670 Fourchette
+AVISIA,Data Analyst,41900,37k,46k,37200 - 46000 Fourchette
+Crédit Agricole,Data Analyst - Stagiaire mensuel,713,639,1k,639 - 1412 Fourchette
+Activus Services,Data Analyst,29365,29k,30k,29217 - 29803 Fourchette
+SUEZ,Data Analyst,39737,34k,45k,34000 - 45000 Fourchette
+Compte-Nickel,Data Analyst,42507,34k,46k,34293 - 46401 Fourchette
+Michelin,Data Analyst,42429,16k,50k,16248 - 49934 Fourchette
+SNCF,Data Analyst - Mensuel,2625,1k,4k,1258 - 3996 Fourchette
+OpenClassrooms,Data Analyst,38078,30k,53k,30130 - 53347 Fourchette
+TotalEnergies,Data Analyst - Contrat temporaire mensuel,2329,1k,4k,1260 - 4167 Fourchette
+Lincoln (France),Data Analyst,46794,38k,48k,37512 - 47583 Fourchette
+Meetic,Data Analyst,54262,44k,67k,44019 - 66992 Fourchette
+L'Oréal,Data Analyst - Stagiaire mensuel,1215,943,2k,943 - 1559 Fourchette
+CANAL+ Group,Data Analyst,46233,40k,49k,40289 - 48732 Fourchette
+Orange,Big Data Engineer,49816,43k,72k,42543 - 72468 Fourchette
+Kayrros,Senior Data Scientist,55703,52k,58k,52000 - 58000 Fourchette
+Criteo,Senior Data Scientist,63401,61k,83k,60526 - 82798 Fourchette
+BNP Paribas,Senior Data Scientist,69526,45k,89k,44670 - 89085 Fourchette
+EY,Senior Data Analyst,53040,45k,59k,45000 - 59420 Fourchette
+KPMG,Senior Data Analyst,51181,45k,54k,45242 - 53500 Fourchette
+Solocal,Senior Data Analyst,59847,50k,66k,49934 - 66453 Fourchette
+BNP Paribas,Data Science - Stagiaire mensuel,1799,1k,2k,1487 - 2191 Fourchette
+Thales,Data Science - Stagiaire mensuel,1176,863,1k,863 - 1316 Fourchette
+Kayrros,Junior Data Scientist,46298,22k,51k,21995 - 51153 Fourchette
+Capgemini,Junior Data Engineer,39173,34k,45k,34000 - 44944 Fourchette
+Orange,Data Scientist Intern - Mensuel,1410,1k,1k,1309 - 1454 Fourchette
+Orange,Data Scientist Intern - Mensuel,1583,1k,2k,1434 - 1978 Fourchette
+TotalEnergies,Data Scientist Intern - Mensuel,1352,863,2k,863 - 1878 Fourchette
+Capgemini,Data Consultant,48822,42k,59k,41648 - 58614 Fourchette
+Assistance Publique Hôpitaux de Paris,Clinical Data Manager - Mensuel,2316,2k,3k,2127 - 2632 Fourchette
+Excelya,Clinical Data Manager,44736,38k,48k,38000 - 48123 Fourchette
+Orange,Intern data scientist - Mensuel,1427,1k,2k,1385 - 1945 Fourchette
+AXA,Intern data scientist - Mensuel,1928,2k,2k,1705 - 2026 Fourchette
+Wavestone,Consultant Data Scientist - Stagiaire mensuel,1829,2k,2k,1792 - 1833 Fourchette
+Fifty-Five,Data Analytics Consultant,44417,41k,48k,41404 - 48000 Fourchette
+"Sopra Steria,""Consultant, Data Analyst"",37353,33k,50k,32833 - 50308 Fourchette"
+Devoteam,Big Data Consultant,41608,39k,42k,38815 - 42087 Fourchette
+Artefact,Senior Data Consultant,64173,57k,68k,56695 - 68125 Fourchette
+Keyrus,consultant data,34566,33k,37k,33000 - 37246 Fourchette
+AGYLIS,Ingénieur big data,55737,45k,74k,44670 - 73735 Fourchette
+Sia Partners,Consultant data science,49902,49k,59k,49329 - 59477 Fourchette
+Sia Partners,Consultant Data Scientist Junior,44507,43k,49k,43261 - 48508 Fourchette
+Ubisoft,Data Scientist Assistant - Stagiaire mensuel,1333,1k,1k,1273 - 1400 Fourchette
+Independent,Data Scientist,40348,40k,65k,40348 - 65282 Fourchette
+Fortia Financial Solutions,Data Scientist,59560,51k,68k,51184 - 67673 Fourchette
+Skapánê,Data Scientist,35048,34k,49k,33538 - 48841 Fourchette
+Operanka Associates,Data Scientist,46503,26k,48k,26202 - 47861 Fourchette
+Groupe BPCE,Data Scientist - Stagiaire mensuel,1661,1k,2k,1158 - 1864 Fourchette
+CEGID,Data Scientist,50000,39k,60k,39340 - 60000 Fourchette
+Assystem,Data Scientist - Stagiaire mensuel,1062,1k,1k,1033 - 1066 Fourchette
+Fifty-Five,Data Scientist,50143,42k,57k,41825 - 57200 Fourchette
+Illuin Technology,Data Scientist,51444,51k,69k,51000 - 69271 Fourchette
+BioSerenity,Data Scientist,53842,48k,56k,48211 - 56000 Fourchette
+STMicroelectronics,Data Scientist - Stagiaire mensuel,1200,888,1k,888 - 1350 Fourchette
+Konecranes,Data Scientist,49228,46k,51k,45590 - 50504 Fourchette
+Hermès,Data Scientist - Mensuel,1252,1k,1k,1250 - 1350 Fourchette
+Orange Business Services,Data Scientist - Stagiaire mensuel,1442,1k,2k,1362 - 1700 Fourchette
+RelevanC,Data Scientist,50086,46k,55k,46038 - 54770 Fourchette
+ADP,Data Scientist,22852,21k,40k,20961 - 40174 Fourchette
+Université Grenoble Alpes,Data Scientist - Mensuel,2603,2k,3k,2017 - 3279 Fourchette
+IBM,Data Scientist - Stagiaire mensuel,1493,1k,2k,1430 - 1526 Fourchette
+Orange Labs,Data Scientist - Stagiaire mensuel,1345,1k,2k,1205 - 1964 Fourchette
+Saagie,Data Scientist,40049,36k,48k,36000 - 47861 Fourchette
+StarClay,Data Scientist,40637,40k,48k,40497 - 47971 Fourchette
+DXC Technology,Data Scientist,47957,42k,48k,42000 - 47957 Fourchette
+Michelin,Data Scientist - Stagiaire,17056,16k,20k,16350 - 20175 Fourchette
+Groupama,Data Scientist - Stagiaire mensuel,1383,612,1k,612 - 1489 Fourchette
+Axys Consultants,Data Scientist,57905,43k,58k,42641 - 57966 Fourchette
+CANAL+ Group,Data Scientist - Stagiaire mensuel,1362,1k,1k,1078 - 1440 Fourchette
+Enedis,Data Scientist - Stagiaire mensuel,1279,1k,1k,1276 - 1468 Fourchette
+Presage,Data Scientist,34000,34k,37k,34000 - 37322 Fourchette
+SAP,Data Scientist - Stagiaire mensuel,1599,1k,2k,1290 - 1812 Fourchette
+INRAE,Data Scientist - Mensuel,2390,2k,3k,1686 - 3334 Fourchette
+Groupe SeLoger,Data Scientist,51156,47k,54k,46503 - 53750 Fourchette
+OVHcloud,Data Scientist,47004,40k,55k,40000 - 55178 Fourchette
+Deepki,Data Scientist - Stagiaire mensuel,1155,1k,1k,1081 - 1198 Fourchette
+Michelin,Data Scientist,42409,37k,50k,36731 - 50308 Fourchette
+Aubay,Data Scientist,42452,41k,44k,41417 - 43646 Fourchette
+IDEMIA,Data Scientist,50000,48k,53k,47861 - 53000 Fourchette
+Allianz Trade,Data Scientist - Stagiaire mensuel,1595,1k,2k,1400 - 1595 Fourchette
+TotalEnergies,Data Scientist - Contrat temporaire mensuel,2082,2k,3k,1887 - 3092 Fourchette
+OpenClassrooms,Data Scientist,36849,24k,40k,24000 - 40000 Fourchette
+CMA CGM,Data Scientist,59886,57k,61k,56948 - 61265 Fourchette
+ClaraVista,Data Scientist,44436,41k,65k,41417 - 64713 Fourchette
+Ekimetrics,Data Scientist - Stagiaire mensuel,1412,1k,2k,1320 - 1513 Fourchette
+Banque Populaire,Data Scientist,33069,32k,47k,31907 - 46503 Fourchette
+Lincoln (France),Data Scientist,50000,38k,52k,37656 - 52374 Fourchette
+Keyrus,Data Scientist - Stagiaire mensuel,1279,1k,2k,1064 - 1664 Fourchette
+Cognizant Technology Solutions,Data Scientist,44219,42k,45k,41738 - 45442 Fourchette
+bioMérieux,Data Scientist - Stagiaire mensuel,1509,1k,2k,1145 - 1572 Fourchette
+ENGIE,Data Scientist - Mensuel,1543,2k,2k,1522 - 1589 Fourchette
+Aive,Data Scientist,53093,49k,59k,49079 - 58653 Fourchette
+Ministère des Armées,Data Scientist,58614,48k,63k,47957 - 63170 Fourchette
+EY,Data Scientist - Stagiaire mensuel,1811,1k,2k,1043 - 1972 Fourchette
+Consortia,Data Scientist,44000,38k,62k,38169 - 62219 Fourchette
+craft ai,Data Scientist,44670,45k,58k,44670 - 58313 Fourchette
+CEA,Data Scientist - Stagiaire mensuel,1362,734,1k,734 - 1383 Fourchette
+VISEO,Data Scientist,44696,41k,52k,40875 - 51777 Fourchette
